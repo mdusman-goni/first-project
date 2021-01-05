@@ -1,0 +1,100 @@
+body{
+    margin: 0px;
+    font-family: 'Ubuntu', sans-serif;
+}
+h1{
+    font-size: 50px;
+}
+p{
+    color: #252323;
+}
+.top-section{
+    background-image: url(img/top-banner.png);
+    height: 500px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin-bottom: 70px;
+}
+.tpsec-part{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 3%;
+}
+.color-head{
+    color: #ffa500;
+}
+.top-para{
+    color: #5a4d4d;;
+}
+.tpsec-part img{
+    width: 100%;
+}
+
+.second-section{
+    background-image: url(img/dream-bg.png);
+    height: 500px;
+    background-repeat: no-repeat;
+    background-position: right;
+    margin-bottom: 70px;
+}
+.top-button{
+    background: linear-gradient(90deg, rgba(255,200,0,1) 0%, rgba(254,236,170,1) 100%);
+    font-weight: 600;
+    padding: 10px 45px;
+    border-radius: 5px;
+    text-decoration: none;
+}
+.experiance-heading{
+    font-size: 50px;
+}
+.experience-section h2{
+    font-size: 45px;
+}
+.experience-section-box h3{
+    color: #ffa500;
+}
+.experience-section-box p{
+    text-align: justify;
+}
+.experience-section-box{
+    width: 40%;
+    height: 250px;
+    float: left;
+    margin-left: 5%;
+    padding: 5px;
+    background-color: #ffff;
+    box-shadow: 10px 10px 40px silver;
+}
+#dfrnt-border-two{
+    border-left: 7px solid;
+    border-image: linear-gradient(180deg, blue, lightblue);
+    border-image-slice: 1;
+}
+
+#dfrnt-border-one{
+    border-left: 7px solid;
+    border-image: linear-gradient(180deg, tomato, lightsalmon);
+    border-image-slice: 2;
+}
+
+.experiancess{
+    background-image: url(img/exp-bg.png);
+    height: 350px;
+    background-repeat: no-repeat;
+    background-position: left;
+}
+
+footer p{
+    text-align: center;
+    padding: 60px;
+}
+
+
+
+
+
+
+
+
+
